@@ -12,6 +12,7 @@
 2. Gameplay Loop:
 Each shift, a line of visitors approaches your booth one at a time. When an NPC steps up, you see their profile card on one side of the screen showing their listed traits like species, clearance level, physical description, and ID photo. On the other side you see the actual NPC standing there. You click different parts of the NPC to zoom in and inspect them, looking for anything that doesn't match their profile card, like a tail poking out, mismatched eye color, or a clearance badge from the wrong sector. You then make a call: let them through or flag them as an anomaly. After your shift ends, you get a score based on how many you got right, and your rank goes up or down. Get too many wrong and you get fired, or worse, taken by the aliens.
 2. Breakdown:
+
    <img width="609" height="591" alt="Screenshot 2026-04-01 at 7 47 05 PM" src="https://github.com/user-attachments/assets/57857d8e-4439-4789-a357-83fefd23e885" />
 
 
