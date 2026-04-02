@@ -18,8 +18,9 @@
 -  After your shift ends, you get a score based on how many you got right.
 -  Get too many wrong and you get fired.
 2. Breakdown:
+<img width="448" height="591" alt="Screenshot 2026-04-01 at 8 01 27 PM" src="https://github.com/user-attachments/assets/e3cdb0f1-cb46-4488-b492-e99ad7534c4f" />
 
-   <img width="609" height="591" alt="Screenshot 2026-04-01 at 7 47 05 PM" src="https://github.com/user-attachments/assets/57857d8e-4439-4789-a357-83fefd23e885" />
+   
 
 
 
