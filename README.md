@@ -8,7 +8,7 @@
 3. My LA really like puzzle games and game with a gray color scheme with a concenete aesthetic. I also can agree with this, I think puzzle games are very engaging and entertaining. I think the concrete aesthetic, and I think I might get into it more. 
 
 ### Activity 2
-1. I want to do a visual novel.
+1. I want to do a paper please like game.
 2. Gameplay Loop:
 - Each shift, a line of visitors approaches your booth one at a time.
 - When an NPC steps up, you see their profile card on one side of the screen showing their listed traits like species, clearance level, physical description, and ID photo.
