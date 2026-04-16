@@ -20,11 +20,16 @@
 2. Breakdown:
 <img width="448" height="591" alt="Screenshot 2026-04-01 at 8 01 27 PM" src="https://github.com/user-attachments/assets/e3cdb0f1-cb46-4488-b492-e99ad7534c4f" />
 
-   
+ ## W2
+### Activity 1
+   <img width="1053" height="556" alt="Screenshot 2026-04-15 at 9 50 05 PM" src="https://github.com/user-attachments/assets/55a33ccc-158b-455d-9c6b-9969916c51c6" />
 
-
-
-
-
-## W2
-Write your W2 Devlog here.
+### Activity 2
+#### Q1
+This is because if we want to change the variable name, we only have to change it in one place. This string is a scene varabile which means it comes up on all the on=bjects in the scene.
+#### Q2
+I used the one in the explore state in the state machine in the explore state. This helped me know that the state machine was working specifcally if the penguin can move and the Dialogue ui showed up.
+#### Q3
+Set Cursor Lock State has high relvance to my game. Since my game is like a paper please like game, using this will prevent the mouse from drifting off screen. IN addition, it can manage high spped tasks such as inspecting the alien whille not going off screen or misclicking.
+#### Q4
+Game State has high relvance to my game. Since my game is like a paper please like game, the NPC or the aliens are going to be going through 3 game states: arriving for inspection, getting inverstigated by the player where they either get flagged or let through, and leaving the inspection.
