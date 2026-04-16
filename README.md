@@ -22,7 +22,7 @@
 
  ## W2
 ### Activity 1
-   <img width="1053" height="556" alt="Screenshot 2026-04-15 at 9 50 05 PM" src="https://github.com/user-attachments/assets/55a33ccc-158b-455d-9c6b-9969916c51c6" />
+   <img width="1054" height="537" alt="Screenshot 2026-04-15 at 9 52 51 PM" src="https://github.com/user-attachments/assets/1da163c7-1adb-4241-8939-0d43b155c2ce" />
 
 ### Activity 2
 #### Q1
