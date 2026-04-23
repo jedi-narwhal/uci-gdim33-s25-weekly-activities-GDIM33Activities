@@ -38,7 +38,7 @@ Game State has high relvance to my game. Since my game is like a paper please li
 ### Activity #1
  1. My playable build has accpet/deny button, the score that updates, and it rotates with the sprite.
  2. My playesting goals is to make sure the button works, the score updates, and the sprites change.
- 3. My playtest team is: Sonia, Andrew, pinhsuan, and Rebecca.
+ 3. My playtest team is: Sonia, Andrew, Pinhsuan, and Rebecca.
  4. Here is my playtesting notes:
 - one of the assest needs to be cropped better.
 - score updates
