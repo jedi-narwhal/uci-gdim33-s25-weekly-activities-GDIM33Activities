@@ -33,3 +33,9 @@ I used the one in the explore state in the state machine in the explore state. T
 Set Cursor Lock State has high relvance to my game. Since my game is like a paper please like game, using this will prevent the mouse from drifting off screen. IN addition, it can manage high spped tasks such as inspecting the alien whille not going off screen or misclicking.
 #### Q4
 Game State has high relvance to my game. Since my game is like a paper please like game, the NPC or the aliens are going to be going through 3 game states: arriving for inspection, getting inverstigated by the player where they either get flagged or let through, and leaving the inspection.
+
+## W3
+### Activity #1
+ 1. My playable build has accpet/deny button, the score that updates, and it rotates with the sprite.
+ 2. My playesting goals is to make sure the button works, the score updates, and the sprites change.
+ 3. 
