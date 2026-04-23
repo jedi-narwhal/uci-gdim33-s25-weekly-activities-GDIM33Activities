@@ -46,4 +46,6 @@ Game State has high relvance to my game. Since my game is like a paper please li
 - sprite changes
 - better guidelines on scoring system: restricitons.
 ### Activity #2
-
+1. Yes, a writer can add more lines of dialogue without writing code. This is because each dialogue node or option is a scriptable object that can duplicated. Ech scriptable object is tunable in the inspector because it has a serialized field. Because of this, all the writer has to do is to put the the lines of dialgoue they want in the inspector rather than coding it.
+2. There is no limit to the amount of dialgoue nodes the writer can create. This is becuase scriptatble objects make diagloue systems very easy to scale.
+3. Regenerating nodes updates the nodes library so visual scripting graphs can find scripts,custom nodes, and other changes. This is useful for the intial graph setup, script changes, and type option nodes (and the ones you can create in this also). 
