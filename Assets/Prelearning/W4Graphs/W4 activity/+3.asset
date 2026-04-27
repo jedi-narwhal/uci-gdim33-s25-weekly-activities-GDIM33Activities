@@ -12,5 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d87814806be98455aa06d85e22ad29d6, type: 3}
   m_Name: +3
   m_EditorClassIdentifier: 
-  Line: 
-  ReplyOptions: []
+  Line: hiiiiiii
+  ReplyOptions:
+  - line: hiiiiii
+    nextNode: {fileID: 11400000, guid: 18583bfb4e07f435ea5d9a1eaf411cd2, type: 2}
