@@ -54,6 +54,7 @@ Game State has high relvance to my game. Since my game is like a paper please li
 My unity tool of choice is the Scriptable Objects. 
 ### Activity 1:
 1. Big Steps:
+
  a. create Scriptable object
 -create an asset menu so I can duplicate it in the inspector
 - fill the information in code for what the scriptable object is going to hold including the spirite
@@ -65,6 +66,7 @@ My unity tool of choice is the Scriptable Objects.
 - set the currentIndex to 0 in awake
 - update the current index and reset back to zero
 - update the sprite image based on the scriptable object selected
+
 c. hook up the scriptable objects in the inspector
 - add this script to the object you want to add it to (alien ui image)
 - open the list and attach the first scriptable object
