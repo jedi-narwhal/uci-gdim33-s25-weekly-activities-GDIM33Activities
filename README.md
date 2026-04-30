@@ -53,21 +53,18 @@ Game State has high relvance to my game. Since my game is like a paper please li
 ### Activity 0:
 My unity tool of choice is the Scriptable Objects. 
 ### Activity 1:
-1. Big Steps:
 
- a. create Scriptable object
+
+1. create Scriptable object
 -create an asset menu so I can duplicate it in the inspector
 - fill the information in code for what the scriptable object is going to hold including the spirite
 - in the unity, create one scriptable object and fill in the inspector with the data you want
-
- b. create a list that iterates through all the aliens
-
+ 2. create a list that iterates through all the aliens
 - create a list and make in a new list
 - set the currentIndex to 0 in awake
 - update the current index and reset back to zero
 - update the sprite image based on the scriptable object selected
-
-c. hook up the scriptable objects in the inspector
+3. hook up the scriptable objects in the inspector
 - add this script to the object you want to add it to (alien ui image)
 - open the list and attach the first scriptable object
 -  use the plus button to add all you scriptable objects
