@@ -71,3 +71,7 @@ c. hook up the scriptable objects in the inspector
 - add this script to the object you want to add it to (alien ui image)
 - open the list and attach the first scriptable object
 -  use the plus button to add all you scriptable objects
+
+### Activity 3:
+- I implemented my scriptable object sprite to change
+- 
