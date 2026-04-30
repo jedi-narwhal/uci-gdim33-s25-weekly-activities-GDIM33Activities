@@ -69,6 +69,7 @@ My unity tool of choice is the Scriptable Objects.
 - open the list and attach the first scriptable object
 -  use the plus button to add all you scriptable objects
 
-### Activity 3:
+### Activity 2:
 - I implemented my scriptable object sprite to change
-- 
+- I also set my game objects that were suppose to tbe active and deactivated them.
+-  I also polished my state machine
