@@ -73,3 +73,17 @@ My unity tool of choice is the Scriptable Objects.
 - I implemented my scriptable object sprite to change
 - I also set my game objects that were suppose to tbe active and deactivated them.
 -  I also polished my state machine
+
+### W6
+### Activity #1
+ 1. My sprite rotates on exit.
+ 2. Itch l
+ 3. My playesting goals is to make sure the spritie changes on exit gameloop is complete and any other feedback.
+ 4. My playtest team is: Sonia, Andrew, Pinhsuan, and Rebecca.
+ 5. Here is my playtesting notes:
+- one of the assest needs to be cropped better.
+- score updates
+- accept/deny works
+- sprite changes
+- better guidelines on scoring system: restricitons.
+### Activity #2
