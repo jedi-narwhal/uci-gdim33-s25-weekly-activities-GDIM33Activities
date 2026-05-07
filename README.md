@@ -74,16 +74,18 @@ My unity tool of choice is the Scriptable Objects.
 - I also set my game objects that were suppose to tbe active and deactivated them.
 -  I also polished my state machine
 
-### W6
+## W6
 ### Activity #1
- 1. My sprite rotates on exit.
- 2. Itch l
+ 1. My sprite rotates on exit, is what is new in my build from playtest one.
+ 2. Itch link: [My itch link](https://jedi-narwhal.itch.io/playtest2)
  3. My playesting goals is to make sure the spritie changes on exit gameloop is complete and any other feedback.
- 4. My playtest team is: Sonia, Andrew, Pinhsuan, and Rebecca.
- 5. Here is my playtesting notes:
-- one of the assest needs to be cropped better.
-- score updates
-- accept/deny works
-- sprite changes
-- better guidelines on scoring system: restricitons.
+ 4. Here is my playtesting notes:
+ - unexpected flickering between sprites
+ - confused about the text maybe make a object
 ### Activity #2
+1. When you mutiply 2 decimals, the number becomes smaller. This gets you closer to zero which is darker and less saturated.
+2. It will become more transculant because the numbers become smaller. This will get you closer to zero amd become more transculant.
+3. The UV coordinates are stored is in the vertic data of the UV mesh of the shader.
+4. Yes, this is really interesting to me. I thought is was really cool you can do this!
+
+
