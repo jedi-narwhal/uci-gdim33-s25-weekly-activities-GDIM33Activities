@@ -88,4 +88,12 @@ My unity tool of choice is the Scriptable Objects.
 3. The UV coordinates are stored is in the vertic data of the UV mesh of the shader.
 4. Yes, this is really interesting to me. I thought is was really cool you can do this!
 
-
+## W7
+### Devlog Questions
+1. The data from the Shiba Mesh.
+2. It is blended at the edges because each vertex has a color going in between the vertices, the clor becomes interprolated.
+3. It is less detail because we are using a vertex from the mesh which is less detailed than a texture. It helps artists know inconsistancies.
+4. In the back hind leg, the color is off and there is a whole of a random color.
+5. We could use the UV map becuase it will give us the colors will get applied to the mesh.
+6. The surface normal on the shiba of the leg isn't perpendicular to the surface.
+7. We use addative because we want to add the fire to whatever is behind it. By adding 2 colors, the colors increase and the value gets lighter.
