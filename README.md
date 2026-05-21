@@ -97,3 +97,17 @@ My unity tool of choice is the Scriptable Objects.
 5. We could use the UV map becuase it will give us the colors will get applied to the mesh.
 6. The surface normal on the shiba of the leg isn't perpendicular to the surface.
 7. We use addative because we want to add the fire to whatever is behind it. By adding 2 colors, the colors increase and the value gets lighter.
+
+## W8
+### Activity #1
+ 1. I added a ui puttion to tell you where to click and i added an npc.
+ 2. Itch link: [My itch link](https://jedi-narwhal.itch.io/playtest3)
+ 3. My playesting goals is make sure this activates and deactivates during the player inspection phase. Make sure my game makes sense and is understandable for the player.
+ 4. Here is my playtesting notes:
+ - polish UI
+ - npc faster
+ - adding more npcs
+ - text concsise sentence
+ - ui indicator poped up, but still stayed on after end screen
+### Activity #2
+1. 
