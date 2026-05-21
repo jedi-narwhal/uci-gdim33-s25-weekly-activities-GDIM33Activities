@@ -109,5 +109,12 @@ My unity tool of choice is the Scriptable Objects.
  - adding more npcs
  - text concsise sentence
  - ui indicator poped up, but still stayed on after end screen
-### Activity #2
-1. 
+### Activity #2: The first one-I answered the questions at the end of the doc
+1. The stencil buffer is used to mark where the original Shiba is drawn by writing a value of 1 to those pixels. Then, the outline pass only draws where the stencil value is not 1, so the enlarged mesh only shows around the outside of the object and creates the outline effect.
+2. The Shiba gets drawn multiple times: once normally, once for the stencil pass, and once for the outline pass. This happens because each render feature needs its own pass to create the effect.
+3. One way to improve the inefficiency would be combining some of the passes into one shader or reducing the number of objects using the effect. This would lower the number of extra draw calls.
+4. DarkShadowAmount should mostly stay between 0 and 1 because the dot product values used for lighting are usually in that range.
+5. We add the lighting sections together because the lit and shadowed areas are separate parts of the final image. If we multiplied them, parts of the texture could become too dark or disappear.
+6. Changing the Shiba’s layer enables or disables the outline because the Renderer Feature is only set to affect objects on the Outline layer. If the object is moved off that layer, the outline pass ignores it.
+7. Setting the shadow color to white removes the shading because multiplying colors by white keeps them the same. That means the “shadowed” parts no longer get darker.
+8. Modifying materials at runtime can hurt performance because Unity creates separate material instances for objects. This uses more memory and can make rendering less efficient if a lot of objects do it.
