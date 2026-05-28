@@ -121,13 +121,22 @@ My unity tool of choice is the Scriptable Objects.
 
 ## W9
 ### Activity #1: Rendering effect brainstorn
-1. Our game we chose is.
-2. Implentation details:
-   - d
-   - d
+1. Our game we chose is Detroit We Come Human.
+ <img width="2608" height="1265" alt="image" src="https://github.com/user-attachments/assets/1b9cb14a-5953-4a35-94f5-86881bca9408" />
+
+ <img width="2405" height="1374" alt="image" src="https://github.com/user-attachments/assets/26a845a0-261c-4a62-a843-24decad28b06" />
+
+
+2. Implementation Details:
+   - change the rendering effect of the camera to turn down the saturation of everything
+   - need to make a second shader, make it a material, then attach it to every interactable object. 
+   - we need to code it to have a blue hue
+   - then we need to code it to activate it when we are in "robot view"
+   - then turn it off when it is in normal view (so we can view the effect)
+     
 ### Activity #2: Shader Graph
 1. One problem I solved today is having a thin shader outline. Before I had a background inverted the whole ui image, but I just wanted the sprite. So to do this, I coded the alpha threshold to 0.1 so it gets only one pixel of the background.
 2. Shader Graph:
 
 <img width="590" height="412" alt="Screenshot 2026-05-27 at 10 59 26 AM" src="https://github.com/user-attachments/assets/4ba2cdfc-af66-4296-9fbc-f64bd63144a7" />
- <img width="590" height="412" alt="Screenshot 2026-05-27 at 10 59 26 AM" src="https://github.com/user-attachments/assets/4ba2cdfc-af66-4296-9fbc-f64bd63144a7" />
+
