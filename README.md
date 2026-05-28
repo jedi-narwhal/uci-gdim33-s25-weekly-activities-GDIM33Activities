@@ -118,3 +118,16 @@ My unity tool of choice is the Scriptable Objects.
 6. Changing the Shiba’s layer enables or disables the outline because the Renderer Feature is only set to affect objects on the Outline layer. If the object is moved off that layer, the outline pass ignores it.
 7. Setting the shadow color to white removes the shading because multiplying colors by white keeps them the same. That means the “shadowed” parts no longer get darker.
 8. Modifying materials at runtime can hurt performance because Unity creates separate material instances for objects. This uses more memory and can make rendering less efficient if a lot of objects do it.
+
+## W9
+### Activity #1: Rendering effect brainstorn
+1. Our game we chose is.
+2. Implentation details:
+   - d
+   - d
+### Activity #2: Shader Graph
+1. One problem I solved today is having a thin shader outline. Before I had a background inverted the whole ui image, but I just wanted the sprite. So to do this, I coded the alpha threshold to 0.1 so it gets only one pixel of the background.
+2. Shader Graph:
+
+<img width="590" height="412" alt="Screenshot 2026-05-27 at 10 59 26 AM" src="https://github.com/user-attachments/assets/4ba2cdfc-af66-4296-9fbc-f64bd63144a7" />
+ <img width="590" height="412" alt="Screenshot 2026-05-27 at 10 59 26 AM" src="https://github.com/user-attachments/assets/4ba2cdfc-af66-4296-9fbc-f64bd63144a7" />
