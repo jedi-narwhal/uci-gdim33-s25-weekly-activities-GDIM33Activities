@@ -140,3 +140,17 @@ My unity tool of choice is the Scriptable Objects.
 
 <img width="590" height="412" alt="Screenshot 2026-05-27 at 10 59 26 AM" src="https://github.com/user-attachments/assets/4ba2cdfc-af66-4296-9fbc-f64bd63144a7" />
 
+## W10
+### Activity #1: playtesting
+ 1. I added audio and new image behind the text description.
+ 2. Itch link: [My itch link](https://jedi-narwhal.itch.io/playtest4)
+ 3. My playesting goals is make sure the audio works, they like it and it relates to the gameplay, and to also how to make the ui better.
+ 4. Here is my playtesting notes:
+ - x
+
+ ### Activity #2: discussion
+ 1. Team planning strategy:
+ 2. My planning strategy:
+
+### Activity #3: vertical slice
+1. Today, the changes I made was I replaced my old ui unpolished assets with polished ones.
