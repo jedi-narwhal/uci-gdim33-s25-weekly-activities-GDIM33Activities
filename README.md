@@ -146,11 +146,14 @@ My unity tool of choice is the Scriptable Objects.
  2. Itch link: [My itch link](https://jedi-narwhal.itch.io/playtest4)
  3. My playesting goals is make sure the audio works, they like it and it relates to the gameplay, and to also how to make the ui better.
  4. Here is my playtesting notes:
- - x
+ - audio was good
+ - description more clear
+ - good description 
+ 
 
  ### Activity #2: discussion
- 1. Team planning strategy:
- 2. My planning strategy:
+ 1. Team planning strategy: We came up with using a bubble map because it shows how all the systems are connected.
+ 2. My planning strategy: I feel like I use a little bit of both systems. To explain, I like to have the bubble diagram that allows me to see the overall systems of the game. I also like to use the task list to see how to break down a specific feature in the bubble diagram. I plan incoporating both to make sure I created the feature correctly and so I see and understand on how it fits in the bigger picture. I feel like breaking the smaller pieces allows me to figure out features one at a time rather then jumping to random places to figure out what to do. Next time, I would probably use both systems. Using the bubble map, allows me to see the bigger picture of my task. While using a task breakdown, it allows me to map out specific step for a specfic feature.
 
 ### Activity #3: vertical slice
 1. Today, the changes I made was I replaced my old ui unpolished assets with polished ones.
